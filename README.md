@@ -1,3 +1,5 @@
 # HTML-Website
-Online tailoring services can save time and effort by providing custom clothing without leaving home. Here is the one of the online tailoring website
-C:\Users\sandh\OneDrive\Desktop\My Project\logo1.png
+Online tailoring services can save time and effort by providing custom clothing without leaving home. Here is the one of the online tailoring website.
+
+![image](https://github.com/sandhyamindhyala/HTML-Website/assets/144439154/0eec5cde-241b-4a79-83c1-ba0a53ba9a87)
+
