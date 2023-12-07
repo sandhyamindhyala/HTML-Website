@@ -5,4 +5,6 @@ Online tailoring services can save time and effort by providing custom clothing 
 
 
 ![image](https://github.com/sandhyamindhyala/HTML-Website/assets/144439154/6d04fe65-a556-45ff-a73d-a3398e48ee54)
-![image](https://github.com/sandhyamindhyala/HTML-Website/assets/144439154/4c574b3f-19bf-43dd-81d0-9b966e7a2d63)
+
+![image](https://github.com/sandhyamindhyala/HTML-Website/assets/144439154/1a96e2ee-f58d-4885-a53f-9805a9cbe3fe)
+
